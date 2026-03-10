@@ -30,6 +30,7 @@ ENV/
 
 # Calculator-specific files
 logs/
+qr_codes/
 history/
 *.log
 *.csv
