@@ -266,7 +266,7 @@ Docker image will automatically build and push.
 STEP 14 – VERIFY FINAL IMAGE
 --------------------------------------------------
 
-docker run <dockerhub-username>/qr-code-generator-app --url https://openai.com
+docker run <dockerhub-username>/qr-code-generator-app --url https://njit.edu
 
 --------------------------------------------------
 FINAL DELIVERABLES
